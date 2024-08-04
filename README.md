@@ -2,7 +2,9 @@
 
 External font sets including fallbacks (open and commercial).
 
-## HY15
+## Sets
+
+### Inspire Fine
 
 * Sans font = (open = [Open Sans](https://fonts.google.com/specimen/Open+Sans)) + (commercial = Segoe UI) + variable weight
 * Serif font = (open = Bitstream Charter) + (commercial = Times New Roman)
